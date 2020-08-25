@@ -1060,7 +1060,7 @@ td, th { padding: 0px; }
 
 html { font-size: 10px; -webkit-tap-highlight-color: transparent; }
 
-body { font-family: Karla, sans-serif; font-size: 14px; line-height: 1.42857; color: rgb(41, 47, 54); background-color: rgb(41, 47, 54); }
+body { font-family: Karla, sans-serif; font-size: 14px; line-height: 1.42857; color: rgb(41, 47, 54); background-color: rgb(235, 235, 236); }
 
 button, input, select, textarea { font-family: inherit; font-size: inherit; line-height: inherit; }
 
