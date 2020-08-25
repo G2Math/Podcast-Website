@@ -1,0 +1,7 @@
+@charset "utf-8";
+
+.css-1f17y3z { flex: 0 0 300px; display: flex; -webkit-box-align: center; align-items: center; -webkit-box-pack: justify; justify-content: space-between; }
+
+@media (max-width: 768px) {
+  .css-1f17y3z { flex: 0 1 0%; }
+}

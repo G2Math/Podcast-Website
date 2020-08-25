@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+@media (max-width: 768px) {
+  .css-1xtw9ox { line-height: 1; place-content: stretch flex-start; -webkit-box-align: stretch; align-items: stretch; align-self: auto; border-style: none; border-width: 0px; border-color: transparent; flex-flow: row nowrap; -webkit-box-pack: start; background-color: transparent; min-height: auto; min-width: auto; position: relative; overflow: visible; flex-shrink: 1; margin: 0px; padding: 0px; display: block; }
+}
+
+@media (max-width: 991px) and (min-width: 769px) {
+  .css-1xtw9ox { line-height: 1; place-content: stretch flex-start; -webkit-box-align: stretch; align-items: stretch; align-self: auto; border-style: none; border-width: 0px; border-color: transparent; flex-flow: row nowrap; -webkit-box-pack: start; background-color: transparent; min-height: auto; min-width: auto; position: relative; overflow: visible; flex-shrink: 1; margin: 0px; padding: 0px; display: block; }
+}
+
+@media (min-width: 992px) {
+  .css-1xtw9ox { line-height: 1; place-content: stretch flex-start; -webkit-box-align: stretch; align-items: stretch; align-self: auto; border-style: none; border-width: 0px; border-color: transparent; flex-flow: row nowrap; -webkit-box-pack: start; background-color: transparent; min-height: auto; min-width: auto; position: relative; overflow: visible; flex-shrink: 1; margin: 0px; padding: 0px; display: block; }
+}

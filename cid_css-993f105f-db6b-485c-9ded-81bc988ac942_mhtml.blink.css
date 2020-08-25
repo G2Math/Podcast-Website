@@ -1,0 +1,7 @@
+@charset "utf-8";
+
+.css-1wxeimr { display: flex; -webkit-box-pack: justify; justify-content: space-between; width: 120px; }
+
+@media (max-width: 600px) {
+  .css-1wxeimr { margin: auto auto 46px; }
+}
