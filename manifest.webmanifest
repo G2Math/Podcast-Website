@@ -25,7 +25,7 @@
       "short_name": "Home",
       "description": "Home",
       "url": "index",
-      "icons": [{ "src": "logo192.jpg", "sizes": "192x192" }]
+      "icons": [{ "src": "logo192.png", "sizes": "192x192" }]
     }
   ]
 }
