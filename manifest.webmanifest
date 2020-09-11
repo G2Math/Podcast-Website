@@ -19,5 +19,13 @@
   "display": "standalone",
   "scope": "/",
   "theme_color": "#222222"
-  ],
+  "shortcuts": [
+    {
+      "name": "Home",
+      "short_name": "Home",
+      "description": "Home",
+      "url": "index",
+      "icons": [{ "src": "logo.jpg", "sizes": "192x192" }]
+    }
+  ]
 }
